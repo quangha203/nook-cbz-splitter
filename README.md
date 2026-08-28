@@ -14,9 +14,11 @@ A lightweight Python GUI desktop tool to convert and split CBZ, PDF, and MOBI co
 * **Standalone Executable:** Run directly via `.exe` without installing Python.
 
 ### Usage
-1. Download `convert_v2.exe` from the [Releases](https://github.com/quangha203/nook-cbz-splitter/releases) section.
-2. Launch the application and select your comic files or folders.
-3. Choose your desired output options and start processing.
+1. Download `nook-cbz-splitter.exe` from the [Releases](https://github.com/quangha203/nook-cbz-splitter/releases) section.
+2. Launch the application by double-clicking `nook-cbz-splitter.exe`.
+3. Select your comic files or folders, choose your desired output options, and start processing.
+
+*(First-time launch note: If Windows displays "Windows protected your PC" or "SmartScreen can't be reached right now", simply click **More info** -> **Run anyway** or click **Run** to start the application).*
 
 ---
 
@@ -30,9 +32,11 @@ A lightweight Python GUI desktop tool to convert and split CBZ, PDF, and MOBI co
 * **File Chạy Trực Tiếp:** Sử dụng file `.exe` không cần cài đặt môi trường Python.
 
 ### Hướng Dẫn Sử Dụng
-1. Tải file `convert_v2.exe` từ mục [Releases](https://github.com/quangha203/nook-cbz-splitter/releases).
-2. Mở ứng dụng, chọn file hoặc thư mục truyện cần xử lý.
-3. Tùy chỉnh các thông số và bấm bắt đầu.
+1. Tải file `nook-cbz-splitter.exe` từ mục [Releases](https://github.com/quangha203/nook-cbz-splitter/releases).
+2. Mở ứng dụng bằng cách nhấp đôi chuột vào file `nook-cbz-splitter.exe`.
+3. Chọn file hoặc thư mục truyện cần xử lý, tùy chỉnh các thông số và bấm bắt đầu.
+
+*(Lưu ý khi mở lần đầu: Nếu Windows hiện cảnh báo màn hình xanh "Windows protected your PC" hoặc "SmartScreen can't be reached right now", hãy chọn **More info** -> **Run anyway** hoặc bấm **Run** để mở ứng dụng).*
 
 ---
 
@@ -46,9 +50,11 @@ A lightweight Python GUI desktop tool to convert and split CBZ, PDF, and MOBI co
 * **Ejecutable Independiente:** Ejecute directamente el archivo `.exe` sin instalar Python.
 
 ### Modo de Uso
-1. Descargue `convert_v2.exe` desde la sección de [Releases](https://github.com/quangha203/nook-cbz-splitter/releases).
-2. Abra la aplicación y seleccione sus archivos o carpetas de cómics.
-3. Configure las opciones deseadas e inicie el procesamiento.
+1. Descargue `nook-cbz-splitter.exe` desde la sección de [Releases](https://github.com/quangha203/nook-cbz-splitter/releases).
+2. Abra la aplicación haciendo doble clic en `nook-cbz-splitter.exe`.
+3. Seleccione sus archivos o carpetas de cómics, configure las opciones deseadas e inicie el procesamiento.
+
+*(Nota para la primera ejecución: Si Windows muestra "Windows protected your PC" o "SmartScreen can't be reached right now", haga clic en **More info** -> **Run anyway** o seleccione **Run** para iniciar).*
 
 ---
 
